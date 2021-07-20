@@ -1,0 +1,12 @@
+ Problem
+
+Give a string of PIN Code (with all digits) print "VALID"
+ or "INVALID" (a PIN code is only valid if it has 6 digits)
+
+
+Code File
+Submission Image/Video Instructions
+
+
+Screenshot of the output for the following
+ PIN Codes 1234, 560095, 8012034

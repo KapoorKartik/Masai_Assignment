@@ -1,0 +1,17 @@
+
+   1. Given a number using a while loop print 
+
+     if its a Prime Number or Not
+
+   2. Print the average of all the numbers starting from 0 to the given limit that are multiples of 3
+   2.1 Print the sum of all the numbers starting from 0 to the given limit that are multiples of 3
+
+   3. Print the sum of all odd and even numbers separately from a given
+    starting and ending limit
+
+   4. Given an array of game, scores print the lowest and highest score
+
+   5. Given a number using a for loop print if its a Prime Number or Not
+
+   6. Given an array of strings count the number of Vowels and Consonants present
+
